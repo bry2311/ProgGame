@@ -1,0 +1,27 @@
+c:\users\asus\source\repos\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+c:\users\asus\source\repos\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+c:\users\asus\source\repos\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+c:\users\asus\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+c:\users\asus\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\ASUS\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\ASUS\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\ASUS\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\ASUS\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\ASUS\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+E:\Bryan\SMST4\IN151 ED\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+E:\Bryan\SMST4\IN151 ED\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+E:\Bryan\SMST4\IN151 ED\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+E:\Bryan\SMST4\IN151 ED\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+E:\Bryan\SMST4\IN151 ED\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+E:\Bryan\SMST4\IN151 ED\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+E:\Bryan\SMST4\IN151 ED\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Developer\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Developer\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Developer\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Developer\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Developer\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
